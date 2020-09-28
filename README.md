@@ -8,4 +8,4 @@
 # cd eupc/src
 # make -j8 -f makefile.unix USE_UPNP=-
 
-![Screenshot](screenshot.png)
+![Screenshot](images.jpg)
