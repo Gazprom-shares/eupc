@@ -1,5 +1,5 @@
 
-# Satellite ABS-75° POS algoritm.
+# Satellite ABS-75° POS algoritm
 ![Screenshot](images.jpg)
 # Exchange 
 # https://main.southxchange.com/Market/Book/EUPC/BTC
