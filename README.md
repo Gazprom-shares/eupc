@@ -7,4 +7,4 @@
 # =========
 - git clone https://github.com/Gazprom-shares/eupc.git
 - cd eupc/src
-- make -j8 -f makefile.unix USE_UPNP=-
+- make -j8 -f makefile.unix
